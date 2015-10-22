@@ -2,6 +2,6 @@ package helloworld
 
 class HelloController {
   def world = {
-    render "Hello World!"
+    render "It's working World!"
   }
 }
