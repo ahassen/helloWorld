@@ -1,0 +1,11 @@
+package helloworld
+
+class HelloController {
+  def world = {
+<<<<<<< HEAD
+    render "Hello World from Release!"
+=======
+    render "It's working World!"
+>>>>>>> 7dbcab9f3071d88e41245d434bde42355b52c625
+  }
+}

@@ -97,6 +97,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+<<<<<<< HEAD
+=======
     <orderEntry type="module" module-name="helloworld-grailsPlugins" />
+>>>>>>> 7dbcab9f3071d88e41245d434bde42355b52c625
   </component>
 </module>
