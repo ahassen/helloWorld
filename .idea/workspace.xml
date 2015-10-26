@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0771537-c1a9-43bd-92f0-17087fee8b12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/helloworld/HelloControllerSpec.groovy" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/integration/helloworld/HelloControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/integration/helloworld/HelloControllerIntegrationSpec.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="helloworld.iws" />
@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloControllerSpec.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/integration/helloworld/HelloControllerSpec.groovy">
+      <file leaf-file-name="HelloControllerIntegrationSpec.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/integration/helloworld/HelloControllerIntegrationSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-              <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.17900552" vertical-offset="0" max-vertical-offset="905">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -81,6 +81,7 @@
         <option value="$PROJECT_DIR$/test/unit/helloworld/HelloControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/helloworld/HelloController.groovy" />
         <option value="$PROJECT_DIR$/test/integration/helloworld/HelloControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/test/integration/helloworld/HelloControllerIntegrationSpec.groovy" />
       </list>
     </option>
   </component>
@@ -673,12 +674,12 @@
       <option name="number" value="Default" />
       <updated>1445518458463</updated>
       <workItem from="1445518461250" duration="125000" />
-      <workItem from="1445604577307" duration="138000" />
+      <workItem from="1445604577307" duration="786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275000" />
+    <option name="totallyTimeSpent" value="923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -789,10 +790,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/integration/helloworld/HelloControllerSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/test/integration/helloworld/HelloControllerIntegrationSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-          <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.17900552" vertical-offset="0" max-vertical-offset="905">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding />
         </state>
       </provider>

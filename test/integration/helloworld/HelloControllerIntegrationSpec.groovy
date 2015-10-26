@@ -1,4 +1,4 @@
-package helloworld.integration
+package helloworld
 
 
 
@@ -7,7 +7,7 @@ import spock.lang.*
 /**
  *
  */
-class HelloControllerSpec extends Specification {
+class HelloControllerIntegrationSpec extends Specification {
 
     def setup() {
     }
